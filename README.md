@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subodh057
+- 👋 Hi, I’m subodh awasthi
 - 👀 I’m interested in Tech .
 - 🌱 I’m currently a Bachelor student of computer engineering.
 - ...
