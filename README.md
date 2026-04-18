@@ -11,5 +11,5 @@ Log monitoring & dashboards (Splunk)
 IDS rules & attack detection (Snort)
 Vulnerability scanning (OpenVAS)
 
-🎯 Goal
-Secure a Cybersecurity Internship / SOC Role
+Open For
+Cybersecurity Internship / SOC Role
