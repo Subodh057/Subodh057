@@ -10,6 +10,7 @@ Network analysis (Wireshark)
 Log monitoring & dashboards (Splunk)
 IDS rules & attack detection (Snort)
 Vulnerability scanning (OpenVAS)
+AI Integration.
 
 Open For
 Cybersecurity Internship / SOC Role
