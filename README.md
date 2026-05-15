@@ -4,7 +4,7 @@ Aspiring SOC Analyst | Blue Team Cybersecurity
 
 🧠 Skills
 Wireshark • Splunk • Snort • OpenVAS • Linux • Python (basic)
-
+and familiar with Crowdstrike Edr.
 🛠️ Projects
 Network analysis (Wireshark)
 Log monitoring & dashboards (Splunk)
